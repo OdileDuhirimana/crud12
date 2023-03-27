@@ -1,0 +1,32 @@
+{
+  "name": "odile",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OdileDuhirimana/crud12.git"
+  },
+  "author": "Odile Duhirimana",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OdileDuhirimana/crud12/issues"
+  },
+  "homepage": "https://github.com/OdileDuhirimana/crud12#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "body-parser": "^1.20.2",
+    "config": "^3.3.9",
+    "debug": "^4.3.4",
+    "express": "^4.18.2",
+    "joi": "^17.9.1",
+    "jsonwebtoken": "^9.0.0",
+    "lodash": "^4.17.21",
+    "mongoose": "^7.0.3",
+    "nodemon": "^2.0.22",
+    "swagger-ui-express": "^4.6.2"
+  }
+}
